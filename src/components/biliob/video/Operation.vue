@@ -71,7 +71,7 @@
           style="border-width: 1px"
           large
           tile
-          :href="`https://connect.qq.com/widget/shareqq/index.html?url=www.biliob.com${$route.path}&sharesource=qzone&title=BiliOB233:视频《${title}》的历史数据&pics=https:${pic}&summary=快来围观这个视频的数据变化吧~&desc=`"
+          :href="`https://connect.qq.com/widget/shareqq/index.html?url=www.bilibili.dog${$route.path}&sharesource=qzone&title=BiliOB233:视频《${title}》的历史数据&pics=https:${pic}&summary=快来围观这个视频的数据变化吧~&desc=`"
         >
           <VIcon left>
             mdi-qqchat

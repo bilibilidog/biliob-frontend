@@ -6,7 +6,7 @@
         "body": {
             "background": {
                 "type": "html",
-                "url": "https://biliob.com",
+                "url": "https://www.bilibili.dog/",
                 "action": {
                     "trigger": "visit"
                 }

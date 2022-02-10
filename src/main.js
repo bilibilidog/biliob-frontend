@@ -188,10 +188,10 @@ new Vue({
 }).$mount("#app");
 
 // refresh index.html
-caches.open("biliob-precache-https://www.biliob.com/").then((c) => {
+caches.open("biliob-precache-https://www.bilibili.dog/").then((c) => {
   c.keys().then((k) => {
     k.forEach((e) => {
-      if (e.url === "https://www.biliob.com/index.html") {
+      if (e.url === "https://www.bilibili.dog/index.html") {
         c.delete(e).then(() => {
           console.log("index.html缓存清除成功");
         });
