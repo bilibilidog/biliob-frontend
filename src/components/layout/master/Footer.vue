@@ -48,7 +48,7 @@
         <span class="caption">
           &copy;
           {{ new Date().getFullYear() }}
-          BiliBli.DOG.
+          BiliBili.DOG.
         </span>
         <div />
       </VFlex>
