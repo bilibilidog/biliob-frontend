@@ -163,7 +163,7 @@ axios.interceptors.response.use(
 if (process.env.NODE_ENV == "development ") {
   axios.defaults.baseURL = "//localhost:8081/api";
 } else {
-  axios.defaults.baseURL = "https://api.tokyo.biliob233.com";
+  axios.defaults.baseURL = "https://api.bilibili.dog";
 }
 axios.interceptors.request.use(req => { 
   req.headers = {
@@ -173,7 +173,7 @@ axios.interceptors.request.use(req => {
     req.headers["token"] = `${localStorage.getItem("token")}`
   }
   // if (req.url.indexOf("user") != -1 || req.url.indexOf("comment") != -1 || req.url.indexOf("sponsor") != -1) {
-  //   req.baseURL = "https://api.biliob.com"
+  //   req.baseURL = "https://api.bilibili.dog"
   // }
   return req;
 })

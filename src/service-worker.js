@@ -61,7 +61,7 @@ workbox.routing.registerRoute(
 
 // api缓存，优选从网络获取，网络异常时再使用缓存，请根据实际api url配置RegExp，只支持get请求
 workbox.routing.registerRoute(
-  new RegExp("https://api.biliob.com"),
+  new RegExp("https://api.bilibili.dog"),
   new workbox.strategies.NetworkFirst({
     plugins: [
       new workbox.cacheableResponse.Plugin({
