@@ -74,20 +74,8 @@ export default {
           name: "友情链接",
           links: [
             {
-              name: "激情赞助 上海蔚文印务科技有限公司",
-              link: "http://21yinshua.cn/"
-            },
-            {
-              name: "数据合作 Kanbilibili",
-              link: "https://www.kanbilibili.com/"
-            },
-            {
-              name: "页面跳转 www.obilibili.com",
-              link: "https://www.obilibili.com/"
-            },
-            {
-              name: "数据合作 @科技号",
-              link: "https://space.bilibili.com/14220823"
+              name: "Jannchie见齐",
+              link: "https://github.com/Jannchie"
             }
           ]
         },
@@ -95,7 +83,6 @@ export default {
           name: "其他",
           links: [
             { name: "管理系统", link: "/tracer/dashboard" },
-            { name: "赞助见齐", link: "https://azz.net/jannchie" },
             { name: "关于", link: "/about" },
             { name: "隐私权政策", link: "/privacy" },
             {
