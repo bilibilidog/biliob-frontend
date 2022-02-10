@@ -2874,5 +2874,25 @@
             }
         ],
         "type": "unimportant"
+    },
+    {
+        "title": "重启",
+        "version": "ver.0.1.0",
+        "date": "2022-2-10",
+        "list": [
+            {
+                "text": "修复依赖",
+                "type": "fix"
+            },
+            {
+                "text": "更换API",
+                "type": "fix"
+            },
+            {
+                "text": "修改一些文本",
+                "type": "docs"
+            }
+        ],
+        "type": "unimportant"
     }
 ]
