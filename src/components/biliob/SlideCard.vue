@@ -1,5 +1,9 @@
 <template>
-  <BiliobCard :title="title" border="bottom" light>
+  <BiliobCard
+    :title="title"
+    border="bottom"
+    light
+  >
     <BiliobSlide :name="name">
       <slot />
     </BiliobSlide>
