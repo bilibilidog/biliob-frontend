@@ -48,16 +48,7 @@
         <span class="caption">
           &copy;
           {{ new Date().getFullYear() }}
-          <a
-            href="https://www.github.com"
-            target="_blank"
-          >开源社区</a>, made
-          with
-          <VIcon
-            color="red"
-            size="14"
-          >mdi-heart</VIcon>
-          for BILIBILI
+          BiliBli.DOG.
         </span>
         <div />
       </VFlex>
