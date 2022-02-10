@@ -23,7 +23,7 @@
         <VRow>
           <VCol>
             <div class="title">
-              BiliOB233
+              BiliBli.DOG
             </div>
           </VCol>
           <VSpacer />
@@ -254,7 +254,7 @@
           <VCol>
             <VCard>
               <VCardText>
-                BiliOB233是一个社区项目。源代码由原站长见齐开源。数据、服务器均由匿名开源社区成员提供。主站地址：www.biliob233.com
+                BiliBli.DOG是一个社区项目。源代码由原站长见齐开源。数据、服务器均由匿名开源社区成员提供。主站地址：www.bilibili.dog
               </VCardText>
             </VCard>
           </VCol>

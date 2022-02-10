@@ -99,8 +99,8 @@ export default {
             { name: "关于", link: "/about" },
             { name: "隐私权政策", link: "/privacy" },
             {
-              name: "BiliOB的源代码",
-              link: "https://github.com/Jannchie/BiliOB"
+              name: "BiliBli.DOG的源代码",
+              link: "https://github.com/bilibilidog?tab=repositories"
             }
           ]
         }

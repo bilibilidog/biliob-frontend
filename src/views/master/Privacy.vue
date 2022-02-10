@@ -11,8 +11,8 @@
     </VCardActions>
     <VCardText v-if="chs">
       <p>
-        此为Jannchie见齐构建的开源 BiliOB233
-        web应用程序。该服务由Jannchie免费提供，并按原样使用。
+        此为BiliBli.DOG构建的开源 哔哩哔哩观测
+        web应用程序。该服务由BiliBli.DOG免费提供，并按原样使用。
       </p>
       <p>本页用于告知观测者有关我收集、使用和披露个人信息的相关政策。</p>
       <p>
@@ -78,12 +78,12 @@
       </p>
       <p><strong>联系我</strong></p>
       <p>
-        如果您对我的隐私政策有任何疑问或建议，请随时通过jannchie@gmail.com与我联系。
+        如果您对我的隐私政策有任何疑问或建议，请随时通过 https://github.com/bilibilidog/bilibilidog.github.io/discussions 与我联系。敏感信息请使用GnuPG加密后发送。
       </p>
     </VCardText>
     <VCardText v-else>
       <p>
-        Jannchie built the BiliOB web app as an Open Source app. This SERVICE is
+        BiliBli.DOG built the Bilibili Observation web app as an Open Source app. This SERVICE is
         provided by Jannchie at no cost and is intended for use as is.
       </p>
       <p>
@@ -100,7 +100,7 @@
       </p>
       <p>
         The terms used in this Privacy Policy have the same meanings as in our
-        Terms and Conditions, which is accessible at BiliOB unless otherwise
+        Terms and Conditions, which is accessible at BiliBli.DOG unless otherwise
         defined in this Privacy Policy.
       </p>
       <p><strong>Information Collection and Use</strong></p>

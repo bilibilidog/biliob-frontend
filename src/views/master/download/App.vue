@@ -8,12 +8,12 @@
             <h4>方式1：下载APK</h4>
             <VBtn
               dark
-              href="/BiliOB-android.apk"
+              href="/BiliBli.DOG-android.apk"
             >
               <VIcon left>
                 mdi-android-head
               </VIcon>
-              点此下载BiliOB
+              点此下载BiliBli.DOG
             </VBtn>
             <br>
             <br>

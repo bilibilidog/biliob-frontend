@@ -12,7 +12,7 @@
           class="font-weight-black primary--text caption"
           style="text-align: center"
         >
-          打开手机，扫描上方二维码即可下载安卓端BiliOB233APP~
+          打开手机，扫描上方二维码即可下载安卓端BiliBli.DOGAPP~
         </VCardText>
         <VCardText>
           <VBtn

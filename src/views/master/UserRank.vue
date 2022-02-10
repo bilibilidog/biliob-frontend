@@ -167,7 +167,7 @@ export default {
           vmid: "description",
           name: "description",
           content:
-            "BiliOB233的用户排行榜，在这里可以看到所有观测者的积分排名。积分最高的用户将显示在榜首。"
+            "BiliBli.DOG的用户排行榜，在这里可以看到所有观测者的积分排名。积分最高的用户将显示在榜首。"
         }
       ]
     };

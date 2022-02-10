@@ -6,7 +6,7 @@
   >
     <VCard>
       <VCardTitle class="headline primary white--text font-weight-black">
-        这里是BiliOB233
+        这里是BiliBli.DOG
       </VCardTitle>
       <VCardText class="mt-5">
         <span>

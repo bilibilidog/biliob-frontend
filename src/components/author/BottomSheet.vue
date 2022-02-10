@@ -31,7 +31,7 @@
         <VListItemTitle>前往UP主的个人空间</VListItemTitle>
       </VListItem>
       <VListItem
-        :href="`https://connect.qq.com/widget/shareqq/index.html?url=https://www.bilibili.dog${this.$route.path}&sharesource=qzone&title=BiliOB233:${name}的历史数据&pics=https:${pic}&summary=快来围观这个UP主的数据变化吧~&desc=这个UP主牛逼坏了`"
+        :href="`https://connect.qq.com/widget/shareqq/index.html?url=https://www.bilibili.dog${this.$route.path}&sharesource=qzone&title=BiliBli.DOG:${name}的历史数据&pics=https:${pic}&summary=快来围观这个UP主的数据变化吧~&desc=这个UP主牛逼坏了`"
         target="_blank"
         class="light-primary--text lighten-2 text--lighten-2"
         @click="sheet = false"

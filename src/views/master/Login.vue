@@ -6,7 +6,7 @@
         lg="6"
       >
         <BiliobCard
-          title="登录 - BiliOB"
+          title="登录 - BiliBli.DOG"
           light
           border="bottom"
           style="height: 100%"
@@ -18,8 +18,8 @@
               lazy-src="./img/icons/android-chrome-192x192.png"
               src="./img/icons/android-chrome-192x192.png"
             />
-            这是一个由Jannchie见齐维护的第三方网站，
-            <br>BiliOB233的账号信息和B站并不互通，
+            这是一个由BiliBli.DOG维护的第三方网站，
+            <br>BiliBli.DOG的账号信息和B站并不互通，
             <br>新用户请点击注册按钮注册一个账号。
           </VCardText>
           <VCardActions>
