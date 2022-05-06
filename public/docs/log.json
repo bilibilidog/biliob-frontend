@@ -2877,7 +2877,7 @@
     },
     {
         "title": "重启",
-        "version": "ver.0.1.0",
+        "version": "ver.12.0.0",
         "date": "2022-2-10",
         "list": [
             {
@@ -2889,10 +2889,25 @@
                 "type": "fix"
             },
             {
-                "text": "修改一些文本",
+                "text": "修改了部分文字说明",
                 "type": "docs"
             }
         ],
         "type": "unimportant"
+    },
+    {
+        "title": "页面文本变更",
+        "version": "ver.12.0.1",
+        "date": "2022-5-7",
+        "list": [
+            {
+                "text": "开发日志添加 docs 属性",
+                "type": "feature"
+            },
+            {
+                "text": "修改了部分文字说明",
+                "type": "docs"
+            }
+        ]
     }
 ]

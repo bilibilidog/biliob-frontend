@@ -8,13 +8,15 @@
             <h4>方式1：下载APK</h4>
             <VBtn
               dark
-              href="/BiliBli.DOG-android.apk"
+              href="#"
             >
               <VIcon left>
                 mdi-android-head
               </VIcon>
               点此下载BiliBli.DOG
             </VBtn>
+            <br>
+            暂无开发原生APP的计划
             <br>
             <br>
             <h4>方式2：使用PWA技术</h4>

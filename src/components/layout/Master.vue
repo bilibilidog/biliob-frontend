@@ -225,7 +225,7 @@
                 class="naVBtn"
                 text
                 block
-                href="https://azz.net/jannchie"
+                href="#"
               >
                 <VIcon left>
                   mdi-currency-cny
@@ -254,7 +254,7 @@
           <VCol>
             <VCard>
               <VCardText>
-                BiliBli.DOG是一个社区项目。源代码由原站长见齐开源。数据、服务器均由匿名开源社区成员提供。主站地址：www.bilibili.dog
+                本站立足于美利坚合众国，对全球华人服务，受北美法律保护
               </VCardText>
             </VCard>
           </VCol>

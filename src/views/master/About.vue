@@ -50,10 +50,10 @@
             </li>
             <br>
             <h4>持续集成</h4>
-            <li>后端持续集成目前采用的是Jenkins。前端目前使用Travis-CI。</li>
+            <li>筹备中</li>
             <br>
             <h4>其他支持</h4>
-            <li>服务器由阿里云、腾讯云提供支持，使用了CDN内容分发网络服务。</li>
+            <li>前端服务器由 Vercel 提供支持，使用了CDN内容分发网络服务。</li>
           </VCardText>
         </BiliobCard>
       </VCol>
@@ -62,8 +62,8 @@
       <VCol cols="12">
         <BiliobCard title="其他想要说的话">
           <VCardText>
-            这个网站在可以预见的未来很长一段时间内，由我个人维护。
             由于技术有限、资源有限等原因，该网站可能还有很多不尽如人意的地方。
+            未来将会加入谷歌广告联盟以筹集经费供本项目运营和开发。
           </VCardText>
         </BiliobCard>
       </VCol>

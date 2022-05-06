@@ -37,7 +37,8 @@
                 'cloud',
                 'feature',
                 'fix',
-                'beautify'
+                'beautify',
+                'docs'
               ]"
               :key="eachType"
             >
@@ -94,6 +95,8 @@ export default {
           return "美化";
         case "cloud":
           return "架构";
+        case "docs":
+          return "文本";
         default:
           return "其他";
       }
@@ -134,6 +137,8 @@ export default {
           return "mdi-rocket";
         case "cloud":
           return "mdi-cloud";
+        case "docs":
+          return "mdi-file-document-edit";
         default:
           break;
       }
