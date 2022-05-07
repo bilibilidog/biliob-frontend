@@ -13,7 +13,7 @@
               <VIcon left>
                 mdi-android-head
               </VIcon>
-              点此下载 Bilibili.dog
+              点此下载 Bilibili.DOG
             </VBtn>
             <br>
             暂无开发原生 APP 的计划

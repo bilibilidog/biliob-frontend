@@ -23,7 +23,7 @@
         <VRow>
           <VCol>
             <div class="title">
-              Bilibili.dog
+              Bilibili.DOG
             </div>
           </VCol>
           <VSpacer />

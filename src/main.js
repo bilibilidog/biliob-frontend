@@ -28,7 +28,7 @@ Vue.use(Meta);
 
 router.afterEach(function(to) {
   let baseTitle =
-    " - Bilibili.dog - B站历史数据统计分析站点 - 哔哩哔哩数据查询";
+    " - Bilibili.DOG - B站历史数据统计分析站点 - 哔哩哔哩数据查询";
   if (to.name == undefined) {
     to.name = "404";
   }

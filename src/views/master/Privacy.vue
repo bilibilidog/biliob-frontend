@@ -11,8 +11,8 @@
     </VCardActions>
     <VCardText v-if="chs">
       <p>
-        此为 Bilibili.dog 构建的开源 哔哩哔哩观测
-        web应用程序。该服务由 Bilibili.dog 免费提供，并按原样使用。
+        此为 Bilibili.DOG 构建的开源 哔哩哔哩观测
+        web应用程序。该服务由 Bilibili.DOG 免费提供，并按原样使用。
       </p>
       <p>本页用于告知观测者有关我收集、使用和披露个人信息的相关政策。</p>
       <p>
@@ -84,8 +84,8 @@
     </VCardText>
     <VCardText v-else>
       <p>
-        Bilibili.dog built the Bilibili Observation web app as an Open Source app. This SERVICE is
-        provided by Bilibili.dog at no cost and is intended for use as is.
+        Bilibili.DOG built the Bilibili Observation web app as an Open Source app. This SERVICE is
+        provided by Bilibili.DOG at no cost and is intended for use as is.
       </p>
       <p>
         This page is used to inform visitors regarding my policies with the
@@ -101,7 +101,7 @@
       </p>
       <p>
         The terms used in this Privacy Policy have the same meanings as in our
-        Terms and Conditions, which is accessible at Bilibili.dog unless otherwise
+        Terms and Conditions, which is accessible at Bilibili.DOG unless otherwise
         defined in this Privacy Policy.
       </p>
       <p><strong>Information Collection and Use</strong></p>

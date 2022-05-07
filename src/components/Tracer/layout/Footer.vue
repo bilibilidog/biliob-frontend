@@ -21,7 +21,7 @@
     </div>
     <VSpacer />
     <span class="font-weight-light">
-      &copy; {{ new Date().getFullYear() }} Bilibili.dog
+      &copy; {{ new Date().getFullYear() }} Bilibili.DOG
     </span>
   </VFooter>
 </template>

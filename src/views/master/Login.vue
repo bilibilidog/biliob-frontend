@@ -6,7 +6,7 @@
         lg="6"
       >
         <BiliobCard
-          title="登录 - Bilibili.dog"
+          title="登录 - Bilibili.DOG"
           light
           border="bottom"
           style="height: 100%"
@@ -18,8 +18,8 @@
               lazy-src="./img/icons/android-chrome-192x192.png"
               src="./img/icons/android-chrome-192x192.png"
             />
-            这是一个由 Bilibili.dog 维护的第三方网站，
-            <br>Bilibili.dog 的账号信息和B站并不互通，
+            这是一个由 Bilibili.DOG 维护的第三方网站，
+            <br>Bilibili.DOG 的账号信息和B站并不互通，
             <br>新用户请点击注册按钮注册一个账号。
           </VCardText>
           <VCardActions>

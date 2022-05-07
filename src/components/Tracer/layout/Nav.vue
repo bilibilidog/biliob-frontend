@@ -12,7 +12,7 @@
         <VListItemContent>
           <VListItemTitle class="white--text">
             <h1 class="title">
-              Bilibili.dog
+              Bilibili.DOG
             </h1>
           </VListItemTitle>
           <VListItemSubtitle :v-model="drawer">

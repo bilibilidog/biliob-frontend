@@ -46,7 +46,7 @@
         </div>
         <VSpacer />
         <span class="caption">
-          &copy; {{ new Date().getFullYear() }} Bilibili.dog
+          &copy; {{ new Date().getFullYear() }} Bilibili.DOG
         </span>
         <div />
       </VFlex>
@@ -75,7 +75,7 @@ export default {
             { name: "关于", link: "/about" },
             { name: "隐私权政策", link: "/privacy" },
             {
-              name: "Bilibili.dog 的源代码",
+              name: "Bilibili.DOG 的源代码",
               link: "https://github.com/bilibilidog?tab=repositories"
             }
           ]

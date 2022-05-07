@@ -3,7 +3,7 @@
     <VSpacer />
     <VLayout align-center>
       <div>
-        &copy; {{ new Date().getFullYear() }} Bilibili.dog
+        &copy; {{ new Date().getFullYear() }} Bilibili.DOG
       </div>
     </VLayout>
   </VFooter>
