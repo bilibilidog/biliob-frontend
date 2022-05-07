@@ -6,8 +6,8 @@ if (workbox) {
 
 // 设置缓存前缀和后缀，请根据实际项目名修改
 workbox.core.setCacheNameDetails({
-  prefix: "Bilibili.dog",
-  suffix: "ver.11.2.1",
+  prefix: "bilibili.dog",
+  suffix: "ver.12.0.0",
 });
 
 // have our sw update and control a web page as soon as possible.

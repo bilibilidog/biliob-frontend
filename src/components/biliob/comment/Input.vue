@@ -26,7 +26,7 @@
     v-else
     tile
   >
-    <VCardText> 登陆后，且经验值大于100才能发表观测记录!</VCardText>
+    <VCardText> 登陆后，且经验值大于 100 才能发表观测记录!</VCardText>
     <VCardActions>
       <VSpacer />
       <VBtn

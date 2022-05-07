@@ -1,24 +1,24 @@
 {
     "faqData": [
         {
-            "catalogName": "Bilibili.dog哲学三问",
+            "catalogName": "Bilibili.dog 哲学三问",
             "catalogQuestions": [
                 {
-                    "question": "Bilibili.dog是什么？",
+                    "question": "Bilibili.dog 是什么？",
                     "answer": [
-                        "Bilibili.dog最初是由Jannchie见齐创建的一个Web应用程序，现在由社区维护。Bilibili.dog是一个观测Bilibili上的UP主与其视频的各个指标的数据及其变化趋势的第三方网站。在这里，你可以自由添加UP主或视频观测，了解到最新的榜单和粉丝变动情报。"
+                        "Bilibili.dog 最初是由 Jannchie 见齐创建的一个 Web 应用程序，现在由社区维护。Bilibili.dog 是一个观测 Bilibili 上的UP主与其视频的各个指标的数据及其变化趋势的第三方网站。在这里，你可以自由添加UP主或视频观测，了解到最新的榜单和粉丝变动情报。"
                     ]
                 },
                 {
-                    "question": "Bilibili.dog从哪里来？",
+                    "question": "Bilibili.dog 从哪里来？",
                     "answer": [
-                        "Bilibili.dog的所有数据来自于B站官方正在使用的API。Bilibili.dog不需要资金支持，是一个用爱发电的项目。（未来可能会加入谷歌广告联盟以获取开发及服务器维护资金）"
+                        "Bilibili.dog 的所有数据来自于B站官方正在使用的 API。Bilibili.dog 不需要资金支持，是一个用爱发电的项目。（未来可能会加入谷歌广告联盟以获取开发及服务器维护资金）"
                     ]
                 },
                 {
-                    "question": "Bilibili.dog到哪里去？",
+                    "question": "Bilibili.dog 到哪里去？",
                     "answer": [
-                        "Bilibili.dog通过搜集并观测B站的UP主、视频等数据，给UP主作为参考，了解自己作品的受欢迎程度。从而帮助作者创作更加优秀的作品。Bilibili.dog能够持续观测B站数据，记录B站的发展历程以及各个时期的热点情况。",
+                        "Bilibili.dog 通过搜集并观测B站的UP主、视频等数据，给UP主作为参考，了解自己作品的受欢迎程度。从而帮助作者创作更加优秀的作品。Bilibili.dog 能够持续观测B站数据，记录B站的发展历程以及各个时期的热点情况。",
                         "另一方面，通过观测这些数据，能够了解到B站的最新动态。这些数据本身就非常具有观赏性。"
                     ]
                 }
@@ -30,19 +30,19 @@
                 {
                     "question": "如何获得积分和经验？",
                     "answer": [
-                        "目前，每日签到可以获得10点积分和经验值。消耗积分可以增加等量的经验。"
+                        "目前，每日签到可以获得 10 点积分和经验值。消耗积分可以增加等量的经验。"
                     ]
                 },
                 {
                     "question": "签到间隔时间是多长？",
                     "answer": [
-                        "已注册的用户，每隔8小时就可以签到一次。"
+                        "已注册的用户，每隔 8 小时就可以签到一次。"
                     ]
                 },
                 {
                     "question": "积分可以用来做什么？",
                     "answer": [
-                        "积分可以用于强制追踪up主、增加追踪频率、进行视频弹幕分析等功能。消耗积分获得经验，可以提升观测者的排行。"
+                        "积分可以用于强制追踪UP主、增加追踪频率、进行视频弹幕分析等功能。消耗积分获得经验，可以提升观测者的排行。"
                     ]
                 }
             ]
@@ -51,30 +51,30 @@
             "catalogName": "等级与头衔相关问题",
             "catalogQuestions": [
                 {
-                    "question": "Bilibili.dog的等级有什么用？",
+                    "question": "Bilibili.dog 的等级有什么用？",
                     "answer": [
                         "等级目前起到装饰作用。侧边栏中，观测者排行会按照积分顺序进行排序。在这里会公开显示用户的等级。等级与头衔挂钩，不同头衔拥有不同的功能。"
                     ]
                 },
                 {
-                    "question": "Bilibili.dog的头衔等级如何划分？",
+                    "question": "Bilibili.dog 的头衔等级如何划分？",
                     "answer": [
                         "Bilibili.dog的头衔等级根据观测者的经验值进行划分。",
                         "目前一共有六个等级：",
-                        "<span class='red--text'>管理者</span>：Exp全站前3名",
-                        "<span class='orange--text'>观测者</span>：Exp全站前4-19名",
-                        "<span class='purple--text'>观想者</span>：Exp全站前20-70名",
-                        "<span class='blue--text'>追寻者</span>：Exp全站前5%，且名次在70名之后",
-                        "<span class='green--text'>彷徨者</span>：Exp全站后95%，且Exp > 100",
-                        "<span class='grey--text'>初心者</span>：Exp小于等于100"
+                        "<span class='red--text'>管理者</span>：Exp全站前 3 名",
+                        "<span class='orange--text'>观测者</span>：Exp全站前 4-19 名",
+                        "<span class='purple--text'>观想者</span>：Exp全站前 20-70 名",
+                        "<span class='blue--text'>追寻者</span>：Exp全站前 5%，且名次在 70 名之后",
+                        "<span class='green--text'>彷徨者</span>：Exp全站后 95%，且 Exp > 100",
+                        "<span class='grey--text'>初心者</span>：Exp小于等于 100"
                     ]
                 },
                 {
-                    "question": "Bilibili.dog的权限等级如何划分？",
+                    "question": "Bilibili.dog 的权限等级如何划分？",
                     "answer": [
-                        "Bilibili.dog的权限等级划分如下：",
+                        "Bilibili.dog 的权限等级划分如下：",
                         "目前一共有六个等级，",
-                        "<span class='red--text'>原站长</span>：贡献超过50%的代码",
+                        "<span class='red--text'>原站长</span>：贡献超过 50% 的代码",
                         "<span class='orange--text'>系统测试员</span>：内部测试账号",
                         "<span class='purple--text'>特权研究员</span>：等级达到过管理者",
                         "<span class='blue--text'>管理研究员</span>：等级达到过观测者",
@@ -107,7 +107,7 @@
                 {
                     "question": "提出议题的代价是什么？",
                     "answer": [
-                        "需要支付50点积分。"
+                        "需要支付 50 点积分。"
                     ]
                 },
                 {
