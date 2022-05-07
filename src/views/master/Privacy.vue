@@ -84,8 +84,8 @@
     </VCardText>
     <VCardText v-else>
       <p>
-        BiliBli.DOG built the Bilibili Observation web app as an Open Source app. This SERVICE is
-        provided by BiliBli.DOG at no cost and is intended for use as is.
+        Bilibili.dog built the Bilibili Observation web app as an Open Source app. This SERVICE is
+        provided by Bilibili.dog at no cost and is intended for use as is.
       </p>
       <p>
         This page is used to inform visitors regarding my policies with the
@@ -101,7 +101,7 @@
       </p>
       <p>
         The terms used in this Privacy Policy have the same meanings as in our
-        Terms and Conditions, which is accessible at BiliBli.DOG unless otherwise
+        Terms and Conditions, which is accessible at Bilibili.dog unless otherwise
         defined in this Privacy Policy.
       </p>
       <p><strong>Information Collection and Use</strong></p>

@@ -6,7 +6,7 @@ if (workbox) {
 
 // 设置缓存前缀和后缀，请根据实际项目名修改
 workbox.core.setCacheNameDetails({
-  prefix: "BiliBli.DOG",
+  prefix: "Bilibili.dog",
   suffix: "ver.11.2.1",
 });
 

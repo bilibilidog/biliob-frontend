@@ -41,7 +41,7 @@
       >
         <VBtn
           color="primary"
-          :href="`https://connect.qq.com/widget/shareqq/index.html?url=https://www.bilibili.dog${this.$route.path}&sharesource=qzone&title=BiliBli.DOG:${name}的历史数据&pics=https:${pic}&summary=快来围观这个UP主的数据变化吧~&desc=这个UP主牛逼坏了`"
+          :href="`https://connect.qq.com/widget/shareqq/index.html?url=https://www.bilibili.dog${this.$route.path}&sharesource=qzone&title=Bilibili.dog:${name}的历史数据&pics=https:${pic}&summary=快来围观这个UP主的数据变化吧~&desc=这个UP主牛逼坏了`"
           outlined
           style="border-width: 1px"
           large

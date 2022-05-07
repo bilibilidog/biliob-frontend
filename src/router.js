@@ -291,7 +291,7 @@ export default new Router({
       children: [
         {
           path: "",
-          name: "BiliBli.DOG-管理系统",
+          name: "Bilibili.dog-管理系统",
           component: TracerDashboard,
         },
         {
