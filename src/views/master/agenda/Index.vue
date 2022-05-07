@@ -9,7 +9,7 @@
             </VCol>
             <VCol>
               <RouterLink to="/faq#观测者议会相关问题">
-                前往FAQ查看相关问题
+                前往 FAQ 查看相关问题
               </RouterLink>
             </VCol>
           </VRow>

@@ -6,7 +6,7 @@
           <VCardText>
             <VSearchForm
               slot="search"
-              hint="请输入UP主名称，或者uid"
+              hint="请输入UP主名称，或者 uid"
               @getSearchValue="getSearchValue"
             />
             <span class="overline">OB热搜 / HOT SEARCH</span>
@@ -121,10 +121,10 @@
           </VIcon>抱歉！什么都没有找到QwQ
         </h4>
         <p>
-          搜索功能可能并不完善，为了精确搜索请在上方输入相关UP主的ID！
+          搜索功能可能并不完善，为了精确搜索请在上方输入相关UP主的 ID！
         </p>
         <p>
-          如果搜索ID仍然没有结果，可能是因为该UP主并未被本站观测。你可以点击页面右下角的圆形按钮进行添加！
+          如果搜索 ID 仍然没有结果，可能是因为该UP主并未被本站观测。你可以点击页面右下角的圆形按钮进行添加！
         </p>
       </VCol>
     </VRow>

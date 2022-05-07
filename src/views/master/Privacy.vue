@@ -11,8 +11,8 @@
     </VCardActions>
     <VCardText v-if="chs">
       <p>
-        此为BiliBli.DOG构建的开源 哔哩哔哩观测
-        web应用程序。该服务由BiliBli.DOG免费提供，并按原样使用。
+        此为 Bilibili.dog 构建的开源 哔哩哔哩观测
+        web应用程序。该服务由 Bilibili.dog 免费提供，并按原样使用。
       </p>
       <p>本页用于告知观测者有关我收集、使用和披露个人信息的相关政策。</p>
       <p>
@@ -37,17 +37,18 @@
       </div>
       <p><strong>日志记录</strong></p>
       <p>
-        我想通知您，每当您使用我的服务时，如果应用程序出现错误，我都会通过第三方产品（称为第三方数据）在您的手机上收集数据和信息。该日志数据可能包含诸如您的设备Internet协议（“
-        IP”）地址，设备名称，操作系统版本，使用“我的服务”时应用程序的配置，您使用该服务的时间和日期以及其他统计信息之类的信息。
+        我想通知您，每当您使用我的服务时，如果应用程序出现错误，我都会通过第三方产品（称为第三方数据）在您的手机上收集数据和信息。该日志数据可能包含诸如您的设备
+        Internet 协议（“IP”）地址，设备名称，操作系统版本，使用“我的服务”时应用程序的配置，您使用该服务的时间和日期以及其他统计信息之类的信息。
         。
       </p>
       <p><strong>Cookies</strong></p>
       <p>
-        Cookies是具有少量数据的文件，通常用作匿名唯一标识符。这些信息将从您访问的网站发送到浏览器，并存储在设备的内存中。
+        Cookies 是具有少量数据的文件，通常用作匿名唯一标识符。这些信息将从您访问的网站发送到浏览器，并存储在设备的内存中。
       </p>
       <p>
         本服务使用了这些
-        cookies。并且，该应用程序使用了第三方代码，他们也可能通过cookies来收集信息并改善其服务。您可以选择接受还是拒绝这些cookie，并知道何时将cookie发送到您的设备。如果您选择拒绝我们的cookie，则可能无法使用本服务的某些部分。
+        Cookies。并且，该应用程序使用了第三方代码，他们也可能通过 Cookies 来收集信息并改善其服务。您可以选择接受还是拒绝这些
+        Cookie，并知道何时将 Cookie 发送到您的设备。如果您选择拒绝我们的 Cookie，则可能无法使用本服务的某些部分。
       </p>
       <p><strong>服务供应商</strong></p>
       <p>由于以下原因，我可能会雇用第三方公司和个人：</p>
@@ -62,7 +63,7 @@
       </p>
       <p><strong>安全</strong></p>
       <p>
-        我重视您在向我们提供您的个人信息方面的信任，因此我们正在努力使用商业上可接受的保护方式。但是请记住，互联网上的传输方法或电子存储方法都不是100％安全可靠的，并且我不能保证其绝对安全。
+        我重视您在向我们提供您的个人信息方面的信任，因此我们正在努力使用商业上可接受的保护方式。但是请记住，互联网上的传输方法或电子存储方法都不是 100％ 安全可靠的，并且我不能保证其绝对安全。
       </p>
       <p><strong>外链</strong></p>
       <p>
@@ -70,7 +71,7 @@
       </p>
       <p><strong>儿童隐私</strong></p>
       <p>
-        这些服务不针对13岁以下的任何人。我不会有意收集13岁以下儿童的个人身份信息。如果我发现13岁以下的儿童为我提供了个人信息，我会立即从我们的服务器中删除这些信息。如果您是父母或监护人，并且您知道孩子已向我们提供了个人信息，请与我联系，以便我能够采取必要的措施。
+        这些服务不针对 13 岁以下的任何人。我不会有意收集13岁以下儿童的个人身份信息。如果我发现 13 岁以下的儿童为我提供了个人信息，我会立即从我们的服务器中删除这些信息。如果您是父母或监护人，并且您知道孩子已向我们提供了个人信息，请与我联系，以便我能够采取必要的措施。
       </p>
       <p><strong>本隐私政策的变更</strong></p>
       <p>
@@ -78,13 +79,13 @@
       </p>
       <p><strong>联系我</strong></p>
       <p>
-        如果您对我的隐私政策有任何疑问或建议，请随时通过 https://github.com/bilibilidog/bilibilidog.github.io/discussions 与我联系。敏感信息请使用GnuPG加密后发送。
+        如果您对我的隐私政策有任何疑问或建议，请随时通过 https://github.com/bilibilidog/bilibilidog.github.io/discussions 与我联系。敏感信息请使用 GnuPG 加密后发送。
       </p>
     </VCardText>
     <VCardText v-else>
       <p>
         BiliBli.DOG built the Bilibili Observation web app as an Open Source app. This SERVICE is
-        provided by Jannchie at no cost and is intended for use as is.
+        provided by BiliBli.DOG at no cost and is intended for use as is.
       </p>
       <p>
         This page is used to inform visitors regarding my policies with the

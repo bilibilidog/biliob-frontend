@@ -3,7 +3,7 @@
     <VSpacer />
     <VLayout align-center>
       <div>
-        &copy; {{ new Date().getFullYear() }} - <strong>Jannchie见齐</strong>
+        &copy; {{ new Date().getFullYear() }} Bilibili.dog
       </div>
     </VLayout>
   </VFooter>

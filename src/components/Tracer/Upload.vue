@@ -21,7 +21,7 @@
           />
           <h5>此处可以批量输入ID进行爬取</h5>
           <p class="caption">
-            如果是作者，输入uid，如果是视频，输入av号。输入纯数字即可，以回车键分开。
+            如果是作者，输入 uid，如果是视频，输入av号。输入纯数字即可，以回车键分开。
           </p>
           <VTextarea
             v-model="originData"

@@ -25,7 +25,7 @@ module.exports = {
   },
   pwa: {
     themeColor: "#333",
-    name: "BiliBli.DOG",
+    name: "bilibili.dog",
     msTileColor: "#333",
     workboxPluginMode: "InjectManifest",
     importWorkboxFrom: "disabled",

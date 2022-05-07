@@ -6,7 +6,7 @@
   >
     <VCard>
       <VCardTitle class="headline primary white--text font-weight-black">
-        这里是BiliBli.DOG
+        这里是 Bilibili.dog
       </VCardTitle>
       <VCardText class="mt-5">
         <span>
@@ -65,7 +65,7 @@
       </VCardText>
       <VDivider />
       <VCardActions class="caption">
-        该网站使用cookies个性化内容来分析我们的流量。该网站我们还根据我们的
+        该网站使用 Cookies 个性化内容来分析我们的流量。该网站我们还根据我们的
         隐私政策，与分析合作伙伴共享关于您使用该网站的信息。
       </VCardActions>
       <VDivider />

@@ -21,18 +21,7 @@
     </div>
     <VSpacer />
     <span class="font-weight-light">
-      &copy;
-      {{ new Date().getFullYear() }}
-      <a
-        href="https://www.github.com/jannchie"
-        target="_blank"
-      >Jannchie</a>,
-      made with
-      <VIcon
-        color="tertiary"
-        size="17"
-      >mdi-heart</VIcon>
-      for the Bilibili
+      &copy; {{ new Date().getFullYear() }} Bilibili.dog
     </span>
   </VFooter>
 </template>
@@ -41,9 +30,7 @@
 export default {
   data: () => ({
     links: [
-      { name: "主站首页", Link: "/" },
-      { name: "作者B站个人空间", Link: "https://space.bilibili.com/1850091" },
-      { name: "作者博客", Link: "http://jannchie.github.io" }
+      { name: "主站首页", Link: "/" }
     ]
   })
 };

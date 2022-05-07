@@ -15,7 +15,7 @@
           class="px-1"
           style="vertical-align: sub;"
           color="#0000"
-          href="https://azz.net/jannchie"
+          href="#"
         >
           <VIcon small>
             mdi-currency-cny

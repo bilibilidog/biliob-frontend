@@ -12,11 +12,11 @@
           class="font-weight-black primary--text caption"
           style="text-align: center"
         >
-          打开手机，扫描上方二维码即可下载安卓端BiliBli.DOGAPP~
+          打开手机，扫描上方二维码即可下载安卓端 Bilibili.dog APP~
         </VCardText>
         <VCardText>
           <VBtn
-            href="https://www.bslyun.com/tby4hpO8tLTI2MjY3OC0tMA%3D"
+            href="#"
             block
             outlined
             style="border-width: 1px"

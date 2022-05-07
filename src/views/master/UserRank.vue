@@ -10,7 +10,7 @@
               </div>
             </VExpansionPanelHeader>
             <VExpansionPanelContent>
-              详情见<RouterLink to="/faq">
+              详情见 <RouterLink to="/faq">
                 FAQ
               </RouterLink>
             </VExpansionPanelContent>
@@ -167,7 +167,7 @@ export default {
           vmid: "description",
           name: "description",
           content:
-            "BiliBli.DOG的用户排行榜，在这里可以看到所有观测者的积分排名。积分最高的用户将显示在榜首。"
+            "Bilibili.dog 的用户排行榜，在这里可以看到所有观测者的积分排名。积分最高的用户将显示在榜首。"
         }
       ]
     };

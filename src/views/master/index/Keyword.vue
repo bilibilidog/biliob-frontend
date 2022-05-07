@@ -60,7 +60,7 @@ export default {
   },
   methods: {
     updateData() {
-      window.document.title = `${this.$route.params.keyword} - 见齐指数 - BiliBli.DOG - B站历史数据统计分析站点`;
+      window.document.title = `${this.$route.params.keyword} - 见齐指数 - Bilibili.dog - B站历史数据统计分析站点`;
       this.options = Object();
       this.notFound = false;
       this.axios

@@ -19,7 +19,7 @@
 
         <VCardText v-if="type == '修改昵称'">
           <VRow>
-            <VCol> 注：修改一次需要消耗50点积分 </VCol>
+            <VCol> 注：修改一次需要消耗 50 点积分 </VCol>
             <VCol cols="12">
               <VTextField
                 v-model="newNickName"
@@ -34,7 +34,7 @@
         </VCardText>
         <VCardText v-else-if="type == '修改邮箱'">
           <VRow>
-            <VCol> 注：修改一次需要消耗50点积分 </VCol>
+            <VCol> 注：修改一次需要消耗 50 点积分 </VCol>
             <VCol cols="12">
               <VTextField
                 v-model="newMail"

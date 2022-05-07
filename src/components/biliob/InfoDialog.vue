@@ -26,10 +26,10 @@
         <br>
         请稍后进行访问。
         <br>
-        你也可以通过邮件向我报告问题。
+        你也可以通过以下链接向我报告问题。
         <br>
         <address>
-          邮箱地址：jannchie@gmail.com
+          https://github.com/bilibilidog/biliob-frontend/issues/new
         </address>
         <br>
         <VDivider />
