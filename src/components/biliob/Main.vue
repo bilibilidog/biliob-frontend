@@ -27,25 +27,6 @@
     >
       <BiliobComment id="comment-container" />
     </VCol>
-
-    <VCol
-      v-if="
-        -1 ==
-          ['/login', '/signin'].indexOf(
-            this.$route.path && this.$route.path.indexOf('user') == -1
-          ) || this.$route.path == '/user/rank'
-      "
-      key="sponsor"
-      :style="`${
-        $vuetify.breakpoint.lgAndDown
-          ? 'max-height: 245px;overflow-y: auto;'
-          : ''
-      }`"
-      lg="1"
-      cols="12"
-    >
-      <BiliobSponsor id="sponsor-container" />
-    </VCol>
   </VSlideYTransition>
 </template>
 

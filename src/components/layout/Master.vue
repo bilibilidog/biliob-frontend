@@ -330,7 +330,6 @@ export default {
         { name: "小工具", path: "/tools" }
       ],
       commentDom: undefined,
-      sponsorDom: undefined,
       mainDom: undefined,
       searchMenu: false,
       user: this.$db.user
@@ -380,7 +379,6 @@ export default {
         }
       });
     this.commentDom = document.getElementById("comment-container");
-    this.sponsorDom = document.getElementById("sponsor-container");
     this.mainDom = document.getElementById("main-view");
     // 如果在大屏下，则定时同步大小变化
     if (!this.$vuetify.breakpoint.mdAndDown) {
@@ -412,12 +410,7 @@ export default {
     // 同步高度变化
     resize() {
       let comment = document.getElementById("comment-container");
-      let sponsor = document.getElementById("sponsor-container");
       let mainView = document.getElementById("main-view");
-      if (comment) {
-        comment.style.maxHeight =
-          Math.max(sponsor.offsetHeight, mainView.offsetHeight) + "px";
-      }
     }
   }
 };
