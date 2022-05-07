@@ -5,7 +5,7 @@
         <VCard>
           <VCardTitle><h3>安卓用户</h3> </VCardTitle>
           <VCardText>
-            <h4>方式1：下载APK</h4>
+            <h4>方式1：下载 APK</h4>
             <VBtn
               dark
               href="#"

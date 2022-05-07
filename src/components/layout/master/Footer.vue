@@ -41,9 +41,6 @@
             </div>
           </VFlex>
         </VLayout>
-        <div>
-          <span class="grey--text">但愿这个网站能够帮助到你。</span>
-        </div>
         <VSpacer />
         <span class="caption">
           &copy; {{ new Date().getFullYear() }} Bilibili.DOG

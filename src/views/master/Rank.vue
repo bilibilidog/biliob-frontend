@@ -134,26 +134,26 @@ export default {
       this.index = index;
       switch (index) {
         case 0:
-          this.title = "实时涨粉TOP20(24小时)";
+          this.title = "实时涨粉 TOP 20（24 小时）";
           if (this.$store.state.rank.rankListFansIncrease == undefined) {
             this.$store.dispatch("getIncrease");
           }
           this.$router.push("/rank/fans-increase");
           break;
         case 1:
-          this.title = "实时掉粉TOP20(24小时)";
+          this.title = "实时掉粉 TOP 20（24小时）";
           if (this.$store.state.rank.rankListFansDecrease == undefined)
             this.$store.dispatch("getDecrease");
 
           this.$router.push("/rank/fans-decrease");
           break;
         case 2:
-          this.title = "番剧综合评分TOP20";
+          this.title = "番剧综合评分 TOP 20";
           if (this.$store.state.rank.rankListBangumi == undefined)
             this.$store.dispatch("getBangumiTopList");
           break;
         case 3:
-          this.title = "国创综合评分TOP20";
+          this.title = "国创综合评分 TOP 20";
           if (this.$store.state.rank.rankListDonghua == undefined)
             this.$store.dispatch("getDonghuaTopList");
           break;

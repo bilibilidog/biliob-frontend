@@ -240,7 +240,7 @@
               >
                 <VIcon left>
                   mdi-application
-                </VIcon>APP下载
+                </VIcon>APP 下载
               </VBtn>
             </VContainer>
           </VNavigationDrawer>

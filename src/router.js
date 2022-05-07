@@ -275,7 +275,7 @@ export default new Router({
         },
         {
           path: "/download/app",
-          name: "下载APP",
+          name: "下载 APP",
           component: () => import("@/views/master/download/App.vue"),
         },
         {
